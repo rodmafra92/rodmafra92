@@ -18,7 +18,7 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodmafra92)](https://github.com/rodmafra92) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-mafra-da-silva-1250471a1//)](https://www.linkedin.com/in/rodrigo-mafra-da-silva-1250471a1/) [![Instagran Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigo.mafra1992/)](https://www.instagram.com/rodrigo.mafra1992/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/rodrigo.mafradasilva)](https://www.facebook.com/rodrigo.mafradasilva) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-mafra-da-silva-1250471a1//)](https://www.linkedin.com/in/rodrigo-mafra-da-silva-1250471a1/) [![Instagran Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigo.mafra1992/)](https://www.instagram.com/rodrigo.mafra1992/)
 
 
 - Thanks for visiting.
