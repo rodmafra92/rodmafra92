@@ -8,7 +8,7 @@
 
 :computer: I'm Back-End Developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I'm living in Blumenau - Santa Catarina.
 
 :books: I’m currently learning everything.
 
