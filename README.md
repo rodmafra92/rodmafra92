@@ -24,10 +24,8 @@
 
 [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=rodmafra92)](https://github.com/rodmafra92/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/rodmafra92/github-readme-stats)
 
-[Java Badge]("https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white")
-
 <div>
-<code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <code><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
