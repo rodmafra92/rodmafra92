@@ -24,7 +24,7 @@
 
 [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=rodmafra92)](https://github.com/rodmafra92/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/rodmafra92/github-readme-stats)
 
-[![Jaba Badge]("https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white")]
+[Java Badge]("https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white")
 
 <div>
 <code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
