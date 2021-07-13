@@ -24,7 +24,8 @@
 
 [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=rodmafra92)](https://github.com/rodmafra92/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodmafra92)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodmafra92=compact)](https://github.com/rodmafra92/github-readme-stats)
+
 
 
 - Thanks for visiting.
